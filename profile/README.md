@@ -4,7 +4,7 @@ This group is for everybody interested in R, the programming language for statis
 
 💻 Meetings are currently held online and are open to anyone, but we particularly welcome people from the West Midlands area.
 
-📆 Join the Meetup group to get notified of upcoming events. You can also follow us on Twitter [@WarwickRUG](https://twitter.com/WarwickRUG).
+📆 Join the [Meetup group](https://www.meetup.com/WarwickRUG/) to get notified of upcoming events. You can also follow us on Twitter [@WarwickRUG](https://twitter.com/WarwickRUG).
 
 The group was founded by organizers from the University of Warwick. Slides and resources from events in 2017-2019 are available on the [legacy web site](http://warwick.ac.uk/wrug).
 
