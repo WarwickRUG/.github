@@ -6,7 +6,7 @@ This group is for everybody interested in R, the programming language for statis
 
 📆 Join the [Meetup group](https://www.meetup.com/WarwickRUG/) to get notified of upcoming events. You can also follow us on Mastodon [@WarwickRUG@fosstodon.org](https://fosstodon.org/@WarwickRUG) or Twitter [@WarwickRUG](https://twitter.com/WarwickRUG).
 
-🔗 Visit the [Warwick RUG website](https://warwickrug.github.io/wrug_website/) to find materials from recent events.
+🔗 Visit the [Warwick RUG website](https://warwickrug.github.io/) to find materials from recent events.
 
 The group was founded by organizers from the University of Warwick. Slides and resources from events in 2017-2019 are available on the [legacy web site](http://warwick.ac.uk/wrug).
 
